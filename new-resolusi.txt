@@ -1,0 +1,4 @@
+NEW RESOLUSI
+- praktek awal github web lanjut
+- membuat tampilan awal
+- menampilkan hasil
